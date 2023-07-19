@@ -1,0 +1,41 @@
+/*Body*/
+
+body {
+  background-color: black;
+  text-align: center; 
+  font-family: 'Franklin Gothic Medium';
+  }
+  
+/*Header alignment & color*/
+
+  h1 {text-align: center;  
+      color: #337ab7;
+      font-size: 80px;}
+      
+  p {color:#fff;
+     font-size: 40px};
+
+/*Button */
+
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+  }
+  
+  button:hover {
+    background-color: #286090;
+  }
+  
+  /*Message Displayed*/
+  #message {
+    color: #fff;
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+  }
